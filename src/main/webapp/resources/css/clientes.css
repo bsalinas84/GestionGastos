@@ -1,0 +1,29 @@
+#addclientediv {
+	position: fixed;
+	display: none;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.8);
+	z-index: 2;
+}
+
+#addcliente {
+	width: 350px;
+	margin: 0px;
+	background-color: white;
+	position: relative;
+	border: 1px solid black;
+	left: 50%;
+	top: 50%;
+	margin-left: -210px;
+	margin-top: -255px;
+}
+
+.container {
+	margin-left: 10%;
+}
+
